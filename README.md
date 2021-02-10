@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://github.com/Gronx16/Cloud_Penetration_Testing"><img title="Cloud Penteration Testing" src="https://github-readme-stats.vercel.app/api/pin/?username=Gronx16&repo=Cloud_Penetration_Testing&theme=algolia"></a>  
+<a href="https://github.com/Gronx16/Cloud_Penetration_Testing"><img title="Cloud Penteration Testing" src="https://github-readme-stats.vercel.app/api/pin/?username=Gronx16&repo=Cloud_Penetration_Testing&theme=algolia"></a>
+
 <a href="https://github.com/Gronx16/Flask_Blog"><img title="Flask Blog" src="https://github-readme-stats.vercel.app/api/pin/?username=Gronx16&repo=Flask_Blog&theme=gotham"></a>
 <br>
 
