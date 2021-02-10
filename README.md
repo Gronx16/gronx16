@@ -7,7 +7,7 @@
   <img align="left" alt="Medium" width="21px" src="https://raw.githubusercontent.com/Gronx16/gronx16/tree/main/data/medium.svg" />
 </a>
 <a href="https://twitter.com/gronx16">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/Gronx16/gronx16/tree/main/data/twitter.svg" />
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/twitter.svg" />
 </a>
 
 <br>
