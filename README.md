@@ -1,3 +1,5 @@
+<!-- Introduction -->
+
 ### Hi there, I'm [Rohit!](https://github.com/Gronx16/) ✌
 <p>
 <a href="https://www.linkedin.com/in/gronx16/">
@@ -12,7 +14,8 @@
 </p>
 <br>
 <br>
-<!-- ------------------------------------------------------------------------------------>
+
+<!-- Repositories  -->
 
 <p align="center">
 <a href="https://github.com/Gronx16/Cloud_Penetration_Testing"><img title="Cloud Penteration Testing" src="https://github-readme-stats.vercel.app/api/pin/?username=Gronx16&repo=Cloud_Penetration_Testing&theme=algolia"></a>&nbsp;&nbsp;
@@ -21,17 +24,19 @@
 <a href="https://github.com/Gronx16/Rekon"><img title="Rekon" src="https://github-readme-stats.vercel.app/api/pin/?username=Gronx16&repo=Rekon&theme=blue-green"></a>
 <p>
 
+<!-- Most Used Languages -->
 
 <p align="center">
 <a href="https://github.com/Gronx16"><img title="Gronx16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gronx16&layout=compact&theme=dark"></a>
 </p>
 
-
+<!-- Profile Views1 -->
 
 <!--p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGronx16%2Fgronx16&count_bg=%235DC60E&title_bg=%23B32C2C&icon=rss.svg&icon_color=%23159ABB&title=Visitors+Count&edge_flat=false"/></a>
 </p-->
 
+<!-- Profile Views2 -->
 
 <p align="center">
 <a href="https://github.com/Gronx16"><img title="Gronx16" src="https://komarev.com/ghpvc/?username=gronx16&style=plastic&color=brightgreen" length=100px width=130px></a>
