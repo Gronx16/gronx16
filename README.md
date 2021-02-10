@@ -10,9 +10,9 @@
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/twitter.svg" target=”_blank”/>
 </a>
 </p>
-
 <br>
 <br>
+<!-- ------------------------------------------------------------------------------------>
 
 <p align="center">
 <a href="https://github.com/Gronx16/Cloud_Penetration_Testing"><img title="Cloud Penteration Testing" src="https://github-readme-stats.vercel.app/api/pin/?username=Gronx16&repo=Cloud_Penetration_Testing&theme=algolia"></a>&nbsp;&nbsp;
