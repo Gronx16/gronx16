@@ -1,13 +1,13 @@
 ### Hi there, I'm [Rohit!](https://github.com/Gronx16/) ✌
 <p>
 <a href="https://www.linkedin.com/in/gronx16/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/linkedin.svg" target=”_blank”/>
 </a>
 <a href="https://medium.com/@gronx16">
-  <img align="left" alt="Medium" width="30px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/medium.svg" />
+  <img align="left" alt="Medium" width="30px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/medium.svg" target=”_blank” />
 </a>
 <a href="https://twitter.com/gronx16">
-  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/twitter.svg" />
+  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/Gronx16/gronx16/main/data/twitter.svg" target=”_blank”/>
 </a>
 </p>
 
