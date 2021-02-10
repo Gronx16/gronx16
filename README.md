@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Gronx16"><img title="Gronx16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gronx16&layout=compact,php&theme=dark"></a>
+<a href="https://github.com/Gronx16"><img title="Gronx16" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gronx16&layout=compact&theme=dark"></a>
 </p>
 
 
