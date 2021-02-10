@@ -19,5 +19,4 @@
 
 <p align="center">
 <a href="https://github.com/Gronx16"><img title="Gronx16" src="https://komarev.com/ghpvc/?username=gronx16&style=plastic&color=brightgreen" length=100px width=130px></a>
-hello
 </p>
