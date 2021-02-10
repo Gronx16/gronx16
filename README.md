@@ -8,7 +8,6 @@
 <a href="https://github.com/Gronx16/Rekon"><img title="Rekon" src="https://github-readme-stats.vercel.app/api/pin/?username=Gronx16&repo=Rekon&theme=blue-green"></a>
 <br>
 </p>
-hello
 
 
 
